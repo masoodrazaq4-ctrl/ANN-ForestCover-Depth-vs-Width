@@ -137,7 +137,7 @@ SHAP
 Matplotlib
 
 How to Run
-git clone https://github.com/your-repo-link
+git clone (https://github.com/masoodrazaq4-ctrl/ANN-ForestCover-Depth-vs-Width)
 cd ANN_Covertype
 pip install -r requirements.txt
 jupyter notebook
